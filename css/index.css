@@ -248,6 +248,11 @@ div.hero-anime p{
 		width: 178px;
   }
 
+  .btn:hover {
+		background-color: rgb(178, 70, 221);
+
+  }
+
  .footer{
 	 background-color: rgb(175, 169, 169);
 	 width: 100%;
