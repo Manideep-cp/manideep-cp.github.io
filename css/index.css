@@ -243,6 +243,11 @@ div.hero-anime p{
 	display: block;
   }
 
+  .btn {
+	    border-radius: 0%;
+		width: 178px;
+  }
+
  .footer{
 	 background-color: rgb(175, 169, 169);
 	 width: 100%;
